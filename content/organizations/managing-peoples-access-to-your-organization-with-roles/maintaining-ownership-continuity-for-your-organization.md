@@ -32,7 +32,7 @@ Organization owners have full administrative access to the organization. {% data
 {% endnote %}
 
 {% if enterprise-owner-join-org %}
-If your organization is owned by an enterprise account, any enterprise owner can make themself an owner of your organization. For more information, see "[Managing your role in an organization owned by your enterprise](/admin/user-management/managing-organizations-in-your-enterprise/managing-your-role-in-an-organization-owned-by-your-enterprise)."
+If your organization is owned by an enterprise account, any enterprise owner can make themself an owner of your organization. For more information, see "[Managing your role in an organization owned by your enterprise](/admin/user-management/managing-organizations-in-your-enterprise/managing-your-role-in-an-organization-owned-by-your-enterprise)."active
 {% endif %}
 
 ## Appointing an organization owner
@@ -44,5 +44,5 @@ If your organization is owned by an enterprise account, any enterprise owner can
   ![List of members with two members selected](/assets/images/help/teams/list-of-members-selected-bulk.png)
 5. Above the list of members, use the drop-down menu and click **Change role**.
   ![Drop-down menu with option to remove members](/assets/images/help/teams/user-bulk-management-options.png)
-6. Select a new role for the person or people, then click **Change role**.
-  ![Radio buttons with owner and member roles and Change role button](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)
+6. Select a new role for the person or people, then click **Change role**owner.
+  ![Radio buttons with owner and member roles and Change role button](/assets/images/help/teams/select-and-confirm-new-role-bulk.png)yes,.  owner
